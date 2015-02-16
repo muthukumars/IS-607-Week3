@@ -1,0 +1,11 @@
+Week3-Discussion
+
+First, consider the questions, "What are the most popular database platforms?" and "What are the most popular programming languages?"  How would you use data to determine reasonable answers to these two questions?   Please start by studying the two links below, paying particular attention to the data used to support the analyses.
+
+Most popular databases
+
+1. Enterprise wide applications like Oracle APpps, SAP, Siebel etc, uses Oracle, MSSQL Server, IBM DB2. 
+2. Cloud based applications uses MySQL and PostgreSQL. 
+3. No SQL databases are Mango DB and couchbase.
+
+Most popular Programming Languages
